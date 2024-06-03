@@ -1,0 +1,42 @@
+2024-06-03 15:17:44.159 [main] INFO  com.base.Util.TestBase - Navigated to url - https://rahulshettyacademy.com/client
+2024-06-03 15:17:44.938 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-44.png
+2024-06-03 15:17:45.235 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-45.png
+2024-06-03 15:17:45.239 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:17:45.524 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-45.png
+2024-06-03 15:17:45.524 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:45.916 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-45.png
+2024-06-03 15:17:45.917 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:45.990 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:46.055 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:46.537 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-46.png
+2024-06-03 15:17:46.537 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:17:46.891 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-46.png
+2024-06-03 15:17:46.891 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:47.208 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-47.png
+2024-06-03 15:17:47.208 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:47.468 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\RealTimeProject1\target\Reports\Screenshots\2024-06-03_15-17-47.png
+2024-06-03 15:17:47.468 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:17:47.583 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:17:47.667 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:17:47.724 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:11.864 [main] INFO  com.base.Util.TestBase - Navigated to url - https://rahulshettyacademy.com/client
+2024-06-03 15:22:12.595 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-12.png
+2024-06-03 15:22:12.896 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-12.png
+2024-06-03 15:22:12.902 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:22:13.196 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-13.png
+2024-06-03 15:22:13.196 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:13.543 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-13.png
+2024-06-03 15:22:13.544 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:13.644 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:13.718 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:14.230 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-14.png
+2024-06-03 15:22:14.231 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:22:14.548 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-14.png
+2024-06-03 15:22:14.549 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:14.895 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-14.png
+2024-06-03 15:22:14.895 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:15.185 [main] INFO  com.base.Util.TestBase - screenshot is taken - C:\Users\Samruddhi\.m2\RealTimeProject\target\Reports\Screenshots\2024-06-03_15-22-15.png
+2024-06-03 15:22:15.186 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:22:15.291 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
+2024-06-03 15:22:15.385 [main] INFO  com.base.Util.TestBase - WebElement is clicked
+2024-06-03 15:22:15.445 [main] INFO  com.base.Util.TestBase - webElement sendkeys is perfomed on webelement
